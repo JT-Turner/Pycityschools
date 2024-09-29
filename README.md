@@ -1,1 +1,2 @@
-code created with help from Gupreet Sodhi
+code created with help from Gupreet Sodhi PLEASE REMEBER TO CHANGE THE PATH WHEN LOADING THE NOTEBOOK
+
